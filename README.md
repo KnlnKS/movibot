@@ -1,2 +1,2 @@
-# movibot
- Bot for movies
+# Movibot
+ Reddit bot that listens for call and posts movie data from IMDb.
